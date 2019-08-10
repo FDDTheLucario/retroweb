@@ -1,9 +1,5 @@
 ## Richard Moch
 
-You can use the [editor on GitHub](https://github.com/FDDTheLucario/fddthelucario.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.## Richard Moch
-
 Hi there! My name is Richard Moch, a programmer who specializes in failure and barely functional code.
 
 I was born on March 29, 2003 and I have always had an extreme... _interest_ in programming and just about to do with computers. I've recently (ish) been involving myself in video editing and have gained a small following on places such as my [YouTube](https://www.youtube.com/FloppyDiskDriveVideos).
