@@ -16,6 +16,6 @@ me in the real world, aber ich werde immer Spaß machen!
 
 If you wanna talk, you can do so via [email](mailto:fddthelucario@gmail.com), or via **Discord** at Soulcatcher#8867.
 
-## Take a look at my stuff!
+## Take a look at my stuff
 
 You can visit my [software page](/software) for the stuff I write, or if you're so inclined, take a look at my [blog posts](/posts) if you want a glimpse into my mind.
