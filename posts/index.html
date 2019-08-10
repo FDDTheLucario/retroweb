@@ -1,0 +1,35 @@
+{% for post in paginator.posts %}
+<div class="inner">
+<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+<small>
+    <span class="date">{{ post.date }}</span>
+</small>
+<div class="content">
+    {{ post.content }}
+</div>
+</div>
+{% endfor %}
+
+<div id="title">
+    <!-- Pagination links -->
+    <p>
+        Page: {{ paginator.page }} of {{ paginator.total_pages }}
+    </p>
+
+    <span class="credits left">
+        {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">
+            Previous
+        </a>
+        {% else %}
+        Previous
+        {% endif %}
+    </span>
+    <span class="credits right">
+        {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+        {% else %}
+        Next
+        {% endif %}
+    </span>
+</div>
