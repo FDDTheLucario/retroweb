@@ -1,3 +1,13 @@
 theme: jekyll-theme-hacker
 title: "Richard Moch"
 description: "Anything goes here."
+plugins:
+   - jekyll-mentions
+   - jemoji
+   - jekyll-redirect-from
+   - jekyll-sitemap
+   - jekyll-feed
+   - jekyll-avatar
+   - jekyll-paginate
+paginate: 15
+paginate_path: "/posts/page:num/"
