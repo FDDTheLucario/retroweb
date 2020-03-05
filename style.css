@@ -1,0 +1,15 @@
+body {
+	font-family: Tahoma, sans-serif;
+	background-color: #121212;
+	background-image: url("images/spacebg.gif");
+	color: #FFFFFF;
+	font-size: 12px;
+}
+#heading {
+	width: 150px;
+	text-align: center;
+	float: center;
+}
+#heading h {
+	font-size: 10px;
+}
