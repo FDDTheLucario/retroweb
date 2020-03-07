@@ -4,7 +4,9 @@ body {
 	background-image: url("images/spacebg.gif");
 	color: #FFFFFF;
 	font-size: 12px;
+	cursor: url("images/cursor.gif"), auto;
 }
+//the height is such a hack
 #heading {
 	width: 150px;
 	text-align: center;
